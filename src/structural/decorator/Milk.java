@@ -1,8 +1,8 @@
-package structural.decorate;
+package structural.decorator;
 
-public class Mocha extends CondimentDecorator {
+public class Milk extends CondimentDecorator {
 
-    public Mocha(Beverage beverage) {
+    public Milk(Beverage beverage) {
         this.beverage = beverage;
     }
 

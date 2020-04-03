@@ -1,4 +1,4 @@
-package structural.decorate;
+package structural.decorator;
 
 public interface Beverage {
     double cost();

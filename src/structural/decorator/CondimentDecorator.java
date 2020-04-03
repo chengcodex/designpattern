@@ -1,4 +1,4 @@
-package structural.decorate;
+package structural.decorator;
 
 public abstract class CondimentDecorator implements Beverage {
     protected Beverage beverage;
