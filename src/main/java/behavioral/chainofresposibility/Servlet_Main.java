@@ -18,6 +18,7 @@ public class Servlet_Main {
         chain.doFilter(request, response);
         System.out.println(request.str);
         System.out.println(response.str);
+        System.out.println(2233);
 
     }
 }
